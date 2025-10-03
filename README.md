@@ -229,7 +229,7 @@ mindmap
 
 | 🏆 Metric | 📈 Achievement |
 |----------|---------------|
-| **Research Papers** | 5 IEEE/Springer Publications |
+| **Research Papers** | IEEE/Springer Publications |
 | **Students Trained** | 200+ professionals & students |
 | **Production APIs** | 3 deployed systems (99.5% uptime) |
 | **ML Models Built** | 20+ computer vision & NLP models |
