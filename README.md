@@ -92,8 +92,8 @@ I'm a **Master's student in Data Science & Innovation** at the University of Tec
 
 <div align="center">
   
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-View%20Publications-blue?style=for-the-badge&logo=google-scholar)](https://scholar.google.com)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-00CCBB?style=for-the-badge&logo=researchgate)](https://researchgate.net)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-View%20Publications-blue?style=for-the-badge&logo=google-scholar)]([https://scholar.google.com](https://scholar.google.com/citations?user=tQ4Ur6UAAAAJ&hl=en))
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-00CCBB?style=for-the-badge&logo=researchgate)]([https://researchgate.net](https://www.researchgate.net/profile/Afraz-Ul-Haque-Rupak))
 
 </div>
 
